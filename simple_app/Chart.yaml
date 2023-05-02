@@ -1,0 +1,9 @@
+apiVersion: v2
+name: simple_app
+description: A Helm chart for Kubernetes
+type: application
+
+# チャートバージョン
+version: "v1"
+
+appVersion: "1.16.0"
